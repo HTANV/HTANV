@@ -1,6 +1,6 @@
 ## Hi there 👋
-![GitHub stars](https://img.shields.io/github/stars/username/repo?style=social)
-![GitHub forks](https://img.shields.io/github/forks/username/repo?style=social)
+![GitHub stars]
+![GitHub forks]
 
 <!--
 **HTANV/HTANV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
